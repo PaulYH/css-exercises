@@ -1,6 +1,6 @@
-.para,
-.small-para {
+.para, .para.small-para, .text.child {
   color: hsl(0, 100%, 50%);
+  font-size: 14px;
 }
 
 .small-para {
@@ -11,7 +11,7 @@
   font-size: 22px;
 }
 
-.confirm {
+.button.confirm {
   background: green;
   color: white;
   font-weight: bold;
